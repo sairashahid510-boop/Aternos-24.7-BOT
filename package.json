@@ -1,6 +1,6 @@
 {
-  "name": "aternos-247-bot",
-  "version": "1.1.0",
+  "name": "harib12365.aternos.me",
+  "version": "26.1.2 ",
   "description": "A 24/7 Minecraft bot to keep Aternos servers active and bypass auto-shutdown due to inactivity.",
   "main": "index.js",
   "scripts": {
